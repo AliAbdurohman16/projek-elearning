@@ -199,12 +199,12 @@ img.illustration {
     border-color: var(--blue-dark);
     border-width: 5px;
     border-radius: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     background-color: #ffffff;
 }
 
 .card-body-program {
-    height: 340px;
+    height: 320px;
     margin: 10px 10px;
 }
 
